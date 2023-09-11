@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co/ChRc863/1.jpg",
+    "title": "The Mystery of Shadows",
+    "author": "Alice Smith",
+    "author_img": "https://i.ibb.co/Y2hrsCq/boy1.png",
+    "posted_time": "2023-09-11T10:00:00Z",
+    "reading_time": 45,
+    "hashtags": ["mystery", "thriller", "fiction"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co/SwqnKtY/2.png",
+    "title": "Journey to the Stars",
+    "author": "Bob Johnson",
+    "author_img": "https://i.ibb.co/ZTz79hz/boy2.jpg",
+    "posted_time": "2023-09-10T14:30:00Z",
+    "reading_time": 60,
+    "hashtags": ["science-fiction", "adventure", "space"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co/Vxfc4r0/3.png",
+    "title": "Cooking with Flavors",
+    "author": "Emma Davis",
+    "author_img": "https://i.ibb.co/Vvj4kGD/girl1.jpg",
+    "posted_time": "2023-09-09T08:15:00Z",
+    "reading_time": 30,
+    "hashtags": ["cookbook", "recipes", "food"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co/7Scbmzh/4.jpg",
+    "title": "The Art of Painting",
+    "author": "David Brown",
+    "author_img": "https://i.ibb.co/nRR1Wq3/girl2.jpg",
+    "posted_time": "2023-09-08T16:45:00Z",
+    "reading_time": 55,
+    "hashtags": ["art", "painting", "creativity"]
+  }
+]
